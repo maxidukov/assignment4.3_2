@@ -1,5 +1,6 @@
 #include <iostream>
 
+int pivoting(int, int*, int);
 void quick_sort(int*, int);
 
 int main() {
